@@ -13,7 +13,7 @@ const About = () => {
         Education
         {/* <span className="text-neutral-500"> Me</span> */}
       </motion.h1>
-      <div className="flex flex-wrap justify-center">
+      <div className="flex flex-wrap justify-center my-2">
         <motion.div
           whileInView={{ opacity: 1, x: 0 }}
           initial={{ opacity: 0, x: -100 }}
@@ -30,7 +30,7 @@ const About = () => {
           <p className="text-neutral-400">SEPTEMBER 2021 - ONGOING</p>
         </motion.div>
       </div>
-      <div className="flex flex-wrap justify-center">
+      <div className="flex flex-wrap justify-center my-2">
         <motion.div
           whileInView={{ opacity: 1, x: 0 }}
           initial={{ opacity: 0, x: -100 }}
