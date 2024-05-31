@@ -33,7 +33,6 @@ const Contact = () => {
           <p className="my-2 max-w-xl mx-auto lg:mx-0 block hover:text-purple-400 cursor-pointer">
             yashshinde4343@gmail.com
           </p>
-          <p className="my-2 max-w-xl mx-auto lg:mx-0 hover:text-purple-400 cursor-pointer">+91 8602446498</p>
         </motion.div>
       </div>
     </div>
