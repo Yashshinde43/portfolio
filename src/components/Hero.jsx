@@ -39,8 +39,12 @@ const Hero = () => {
               animate="visible"
               className="my-4 max-w-full font-light text-base sm:text-lg md:text-xl sm:text-start lg:text-justify  leading-relaxed"
             >
-              I am a Computer Science Engineer, recently graduated from Shri Shankaracharya Institute of Professional Management and Technology. As a dedicated and passionate individual in the field of technology, I have honed my skills as a Full Stack Developer. My expertise spans both front-end and back-end development, enabling me to create comprehensive and robust web applications. I am enthusiastic about leveraging my technical skills and academic knowledge to contribute to innovative projects and solve complex problems in the tech industry.
-            </motion.p>
+              Passionate developer with hands-on experience in designing and developing scalable web applications using the
+
+MERN and Next.js stack. Proficient about clean code, agile collaboration, and delivering customer-focused
+
+solutions aligned with organizational goals
+   </motion.p>
           </div>
         </div>
         <div className="w-full lg:w-1/2 lg:p-8">
