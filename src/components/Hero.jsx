@@ -39,11 +39,7 @@ const Hero = () => {
               animate="visible"
               className="my-4 max-w-full font-light text-base sm:text-lg md:text-xl sm:text-start lg:text-justify  leading-relaxed"
             >
-              Passionate developer with hands-on experience in designing and developing scalable web applications using the
-
-MERN and Next.js stack. Proficient about clean code, agile collaboration, and delivering customer-focused
-
-solutions aligned with organizational goals
+              Passionate developer with hands-on experience in designing and developing scalable web applications using the MERN and Next.js stack. Proficient about clean code, agile collaboration, and delivering customer-focused solutions aligned with organizational goals
    </motion.p>
           </div>
         </div>
