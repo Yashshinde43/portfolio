@@ -27,7 +27,7 @@ const About = () => {
             </h1>
           </div>
           <p className="mb-2 text-xl text-neutral-400">Bachelor of Technology</p>
-          <p className="text-neutral-400">SEPTEMBER 2021 - ONGOING</p>
+          <p className="text-neutral-400"> 2021 - 2025 </p>
         </motion.div>
       </div>
       <div className="flex flex-wrap justify-center my-2">
